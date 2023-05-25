@@ -1,0 +1,1357 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><link rel="alternate" hreflang="en" href="https://www.ote-cr.cz/en/tics/electricity-imbalances" /><link rel="alternate" hreflang="cs" href="https://www.ote-cr.cz/cs/tika/odchylky-elektrina" /><link rel="canonical" href="https://www.ote-cr.cz/en/statistics/electricity-imbalances" /><link rel="search" href="https://www.ote-cr.cz/en/@@search" title="Search this site" /><link rel="stylesheet" type="text/css" href="https://www.ote-cr.cz/++plone++production/++unique++2018-11-13T14:45:38.108575/default.css" data-bundle="production" /><link rel="stylesheet" type="text/css" href="https://www.ote-cr.cz/++plone++static/++unique++2022-11-22%2019%3A44%3A19.179395/ote-theme-bundle-compiled.css" data-bundle="ote-theme-bundle" /><link rel="stylesheet" type="text/css" href="https://www.ote-cr.cz//++theme++pubweb-theme/less/theme.css" data-bundle="diazo" /><script type="text/javascript">PORTAL_URL = 'https://www.ote-cr.cz';</script><script type="text/javascript" src="https://www.ote-cr.cz/++plone++production/++unique++2018-11-13T14:45:38.108575/default.js" data-bundle="production"></script><script type="text/javascript" src="https://www.ote-cr.cz//++theme++pubweb-theme/js/theme.js" data-bundle="diazo"></script>
+	<title>Electricity Imbalances — English</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="shortcut icon" href="/++theme++pubweb-theme/images/favicon.ico" />
+	<link rel="apple-touch-icon" href="/++theme++pubweb-theme/images/favicon.ico" />
+	<script type="text/javascript">
+		require = undefined
+    	define = undefined
+	</script>
+	<script type="text/javascript" src="/++theme++pubweb-theme/js/all.min.js"></script>
+<meta content="summary" name="twitter:card" /><meta content="Electricity Imbalances" name="twitter:title" /><meta content="OTE, a.s." property="og:site_name" /><meta content="Electricity Imbalances" property="og:title" /><meta content="website" property="og:type" /><meta content="" name="twitter:description" /><meta content="https://www.ote-cr.cz/en/statistics/electricity-imbalances" name="twitter:url" /><meta content="https://www.ote-cr.cz/logo.png" name="twitter:image" /><meta content="https://www.ote-cr.cz/logo.png" property="og:image" /><meta content="image/png" property="og:image:type" /><meta property="og:description" content="­" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Plone - http://plone.com" /></head>
+
+<body id="visual-portal-wrapper" class="template-task-report portaltype-taskreport site-en section-statistics subsection-electricity-imbalances icons-on thumbs-on frontend viewpermission-view userrole-anonymous pat-markspeciallinks" dir="ltr" data-i18ncatalogurl="https://www.ote-cr.cz/plonejsi18n" data-pat-plone-modal="{&quot;actionOptions&quot;: {&quot;displayInModal&quot;: false}}" data-view-url="https://www.ote-cr.cz/en/statistics/electricity-imbalances" data-pat-tinymce="{&quot;loadingBaseUrl&quot;: &quot;https://www.ote-cr.cz/en/++plone++static/components/tinymce-builded/js/tinymce&quot;, &quot;relatedItems&quot;: {&quot;sort_order&quot;: &quot;ascending&quot;, &quot;vocabularyUrl&quot;: &quot;https://www.ote-cr.cz/en/@@getVocabulary?name=plone.app.vocabularies.Catalog&quot;, &quot;sort_on&quot;: &quot;sortable_title&quot;, &quot;folderTypes&quot;: [&quot;Folder&quot;, &quot;Large Plone Folder&quot;, &quot;Plone Site&quot;, &quot;LIF&quot;], &quot;rootPath&quot;: &quot;/pubweb/en&quot;}, &quot;prependToScalePart&quot;: &quot;/@@images/image/&quot;, &quot;linkAttribute&quot;: &quot;UID&quot;, &quot;prependToUrl&quot;: &quot;/en/resolveuid/&quot;, &quot;imageTypes&quot;: [&quot;Image&quot;], &quot;upload&quot;: {&quot;maxFiles&quot;: 1, &quot;currentPath&quot;: &quot;/statistics&quot;, &quot;initialFolder&quot;: &quot;07d4411f2373467a81d6088dae995c8d&quot;, &quot;baseUrl&quot;: &quot;https://www.ote-cr.cz/en&quot;, &quot;uploadMultiple&quot;: false, &quot;relativePath&quot;: &quot;@@fileUpload&quot;, &quot;showTitle&quot;: false}, &quot;tiny&quot;: {&quot;templates&quot;: {}, &quot;content_css&quot;: &quot;https://www.ote-cr.cz/en/++plone++static/plone-compiled.css,https://www.ote-cr.cz/en/++plone++static/tinymce-styles.css,https://www.ote-cr.cz/en/++plone++static/components/tinymce-builded/js/tinymce/skins/lightgray/content.min.css,https://www.ote-cr.cz/en/++theme++pubweb-theme/less/theme.css&quot;, &quot;external_plugins&quot;: {}, &quot;style_formats_merge&quot;: &quot;True&quot;, &quot;plugins&quot;: [&quot;plonelink&quot;, &quot;ploneimage&quot;, &quot;importcss&quot;, &quot;advlist&quot;, &quot;code&quot;, &quot;fullscreen&quot;, &quot;hr&quot;, &quot;lists&quot;, &quot;media&quot;, &quot;nonbreaking&quot;, &quot;noneditable&quot;, &quot;pagebreak&quot;, &quot;paste&quot;, &quot;preview&quot;, &quot;print&quot;, &quot;searchreplace&quot;, &quot;tabfocus&quot;, &quot;table&quot;, &quot;visualchars&quot;, &quot;wordcount&quot;], &quot;toolbar&quot;: &quot;ltr rtl | undo redo | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | unlink plonelink ploneimage&quot;, &quot;menubar&quot;: [&quot;edit&quot;, &quot;table&quot;, &quot;format&quot;, &quot;toolsview&quot;, &quot;insert&quot;], &quot;importcss_file_filter&quot;: &quot;https://www.ote-cr.cz/en/++plone++static/tinymce-styles.css&quot;, &quot;menu&quot;: {&quot;insert&quot;: {&quot;items&quot;: &quot;link media | template hr&quot;, &quot;title&quot;: &quot;Insert&quot;}, &quot;format&quot;: {&quot;items&quot;: &quot;bold italic underline strikethrough superscript subscript | formats | removeformat&quot;, &quot;title&quot;: &quot;Format&quot;}, &quot;edit&quot;: {&quot;items&quot;: &quot;undo redo | cut copy paste pastetext | searchreplace textpattern selectall | textcolor&quot;, &quot;title&quot;: &quot;Edit&quot;}, &quot;table&quot;: {&quot;items&quot;: &quot;inserttable tableprops deletetable | cell row column&quot;, &quot;title&quot;: &quot;Table&quot;}, &quot;tools&quot;: {&quot;items&quot;: &quot;spellchecker charmap emoticons insertdatetime layer code&quot;, &quot;title&quot;: &quot;Tools&quot;}, &quot;view&quot;: {&quot;items&quot;: &quot;visualaid visualchars visualblocks preview fullpage fullscreen&quot;, &quot;title&quot;: &quot;View&quot;}}, &quot;browser_spellcheck&quot;: true, &quot;entity_encoding&quot;: &quot;raw&quot;, &quot;style_formats&quot;: [{&quot;classes&quot;: &quot;table&quot;, &quot;selector&quot;: &quot;table&quot;, &quot;title&quot;: &quot;OTE table&quot;}], &quot;resize&quot;: &quot;both&quot;, &quot;formats&quot;: {&quot;clearfix&quot;: {&quot;classes&quot;: &quot;clearfix&quot;, &quot;block&quot;: &quot;div&quot;}, &quot;discreet&quot;: {&quot;inline&quot;: &quot;span&quot;, &quot;classes&quot;: &quot;discreet&quot;}}, &quot;importcss_append&quot;: true}, &quot;base_url&quot;: &quot;https://www.ote-cr.cz/en/statistics/electricity-imbalances&quot;}" data-pat-markspeciallinks="{&quot;external_links_open_new_window&quot;: &quot;False&quot;,&quot;mark_special_links&quot;: &quot;True&quot;}" data-portal-url="https://www.ote-cr.cz" data-pat-pickadate="{&quot;date&quot;: {&quot;selectYears&quot;: 200}, &quot;time&quot;: {&quot;interval&quot;: 5 } }" data-base-url="https://www.ote-cr.cz/en/statistics/electricity-imbalances"><section id="edit-bar" role="toolbar"></section><div id="main-content-wrapper" class="wrapper">
+		<div class="row header">
+			<!-- customized header -->
+			<div class="container">				
+				<a class="logo" id="header-logo" href="https://www.ote-cr.cz">
+	<div class="logo-color"></div>
+	<div class="subtitle">Combining opportunities with markets</div>
+	<div class="clear"></div>
+</a>
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation-ul">
+					<i class="fa fa-bars" aria-hidden="true"></i> Menu
+				</button>
+				<div id="header-right-navigation" class="right-navigation">
+					
+	   <span id="header_quick_links">For registered participants:</span>
+	   <a href="https://portal.ote-cr.cz" target="_blank">
+	       <i class="fa fa-key"></i>
+	       CS OTE Portal
+	   </a>
+	   <a href="https://portal.sand.ote-cr.cz" target="_blank">Sandbox</a>
+	   <!-- <a href="http://www.povolenky.cz" i18n:translate="header_quick_link_allowances">Emission Trading Registry</a>-->
+	   <a href="#" id="fa-search"><i class="fa fa-search" aria-hidden="true"></i></a>
+	   <a id="fa-link-linkedin" href="https://www.linkedin.com/company/ote-cr/" target="_blank" aria-label="Linkedin"><i class="fa fa-linkedin"></i></a>
+	
+					
+    
+    
+        <a href="https://www.ote-cr.cz/@@multilingual-selector/27225799b5b646f195e4fd9661ddcef8/cs?set_language=cs" title="Čeština">CZ</a>
+    
+    
+    
+        
+    
+    
+
+					<div id="portal-searchbox" style="display: none">
+
+    <form id="searchGadget_form" action="https://www.ote-cr.cz/en/@@search" role="search" data-pat-livesearch="ajaxUrl:https://www.ote-cr.cz/en/@@ajax-search" class="pat-livesearch">
+
+        <div class="LSBox">   
+	        <div class="input-group">
+	            <input name="SearchableText" id="searchBoxInput" type="text" title="Search Site" tal:attributes="value request/form/SearchableText|nothing;" class="form-control" placeholder="placeholder" />
+	            <span class="input-group-btn">
+	                <button class="btn btn-primary" type="submit">Search</button>
+	            </span>
+	        </div>       
+        </div>
+    </form>
+</div>					
+				</div>								
+			</div>
+		</div>
+		<nav class="row header-menu">
+			<div id="navigation-ul" class="collapse navbar-collapse">
+				<div class="container">
+					<ul id="portal-globalnav" class="nav" role="tablist">
+            
+              <li id="portaltab-index_html">
+                  <a href="https://www.ote-cr.cz/en" title="">
+                    <i class="fa fa-home"></i>
+                    <span>Home</span>
+                  </a>
+              </li>
+            
+              <li id="portaltab-about-ote">
+                  <a href="https://www.ote-cr.cz/en/about-ote" title="">
+                    
+                    <span>About OTE</span>
+                  </a>
+              </li>
+            
+              <li id="portaltab-registration-and-agreements">
+                  <a href="https://www.ote-cr.cz/en/registration-and-agreements" title="">
+                    
+                    <span>Business Partners</span>
+                  </a>
+              </li>
+            
+              <li id="portaltab-risk-management-en">
+                  <a href="https://www.ote-cr.cz/en/risk-management-en" title="">
+                    
+                    <span>Risk management</span>
+                  </a>
+              </li>
+            
+              <li id="portaltab-short-term-markets">
+                  <a href="https://www.ote-cr.cz/en/short-term-markets" title="">
+                    
+                    <span>Short-Term Markets</span>
+                  </a>
+              </li>
+            
+              <li id="portaltab-statistics" class="selected">
+                  <a href="https://www.ote-cr.cz/en/statistics" title="" class="active">
+                    
+                    <span>Statistics</span>
+                  </a>
+              </li>
+            
+              <li id="portaltab-documentation">
+                  <a href="https://www.ote-cr.cz/en/documentation" title="">
+                    
+                    <span>Documentation</span>
+                  </a>
+              </li>
+            
+              <li id="portaltab-gos_and_allowances">
+                  <a href="https://www.ote-cr.cz/en/gos_and_allowances" title="">
+                    
+                    <span>GOs and allowances</span>
+                  </a>
+              </li>
+            
+              <li id="portaltab-poze-en">
+                  <a href="https://www.ote-cr.cz/en/poze-en" title="">
+                    
+                    <span>Subsidy and Sources</span>
+                  </a>
+              </li>
+            
+        </ul>
+				</div>
+			</div>
+		</nav>
+		<div id="with-floating-menu" class="row with-floating-menu">
+			<div class="container">				
+					<div class="floating-menu">
+	                    <ul id="page-pagenav">
+            
+            
+
+
+
+<li class="navTreeItem visualNoMarker navTreeCurrentNode active section-electricity-imbalances">
+
+    
+
+        <a href="https://www.ote-cr.cz/en/statistics/electricity-imbalances" title="" class="state-published navTreeCurrentItem  navTreeCurrentNode active contenttype-taskreport">
+            
+            Electricity Imbalances
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-gas-imbalances">
+
+    
+
+        <a href="https://www.ote-cr.cz/en/statistics/gas-imbalances" title="" class="state-published navTreeFolderish contenttype-folder">
+            
+            Gas Imbalances
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-electricity-load-profiles">
+
+    
+
+        <a href="https://www.ote-cr.cz/en/statistics/electricity-load-profiles" title="" class="state-published navTreeFolderish contenttype-folder">
+            
+            Electricity Load Profiles
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-gas-load-profiles">
+
+    
+
+        <a href="https://www.ote-cr.cz/en/statistics/gas-load-profiles" title="" class="state-published navTreeFolderish contenttype-folder">
+            
+            Gas Load Profiles
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-monthly-report-electricity">
+
+    
+
+        <a href="https://www.ote-cr.cz/en/statistics/monthly-report-electricity" title="" class="state-published navTreeFolderish contenttype-folder">
+            
+            Monthly Report Electricity
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-monthly-report-gas">
+
+    
+
+        <a href="https://www.ote-cr.cz/en/statistics/monthly-report-gas" title="" class="state-published navTreeFolderish contenttype-folder">
+            
+            Monthly Report Gas
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-statistics-poze">
+
+    
+
+        <a href="https://www.ote-cr.cz/en/statistics/statistics-poze" title="" class="state-published navTreeFolderish contenttype-folder">
+            
+            Statistics POZE
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker section-national-residual-mix">
+
+    
+
+        <a href="https://www.ote-cr.cz/en/statistics/national-residual-mix" title="" class="state-published contenttype-document">
+            
+            National Residual Mix
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker section-yearly-market-report">
+
+    
+
+        <a href="https://www.ote-cr.cz/en/statistics/yearly-market-report" title="" class="state-published contenttype-taskreport">
+            
+            Yearly Report
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker section-weighted-average-cost-of-balancing-energy">
+
+    
+
+        <a href="https://www.ote-cr.cz/en/statistics/weighted-average-cost-of-balancing-energy" title="" class="state-published contenttype-document">
+            
+            Weighted average cost of balancing energy
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker section-maps-to-download">
+
+    
+
+        <a href="https://www.ote-cr.cz/en/statistics/maps-to-download" title="" class="state-published contenttype-document">
+            
+            Maps to download
+        </a>
+
+        
+
+    
+</li>
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-compensations-of-indirect-costs-co2">
+
+    
+
+        <a href="https://www.ote-cr.cz/en/statistics/compensations-of-indirect-costs-co2" title="" class="state-published navTreeFolderish contenttype-folder">
+            
+            Compensations of indirect costs (CO2)
+        </a>
+
+        
+
+    
+</li>
+
+
+
+
+        </ul>
+	            	</div>
+	            
+	            <div id="global_statusmessage">
+      
+
+      <div>
+      </div>
+    </div>
+             	<div class="content">
+                	<article id="portal-column-content">
+    
+      <div id="portal-breadcrumbs-theme"></div>
+
+      <section id="viewlet-above-content"><nav id="portal-breadcrumbs" class="plone-breadcrumb">
+  <div class="container">
+    <span id="breadcrumbs-you-are-here" class="hiddenStructure">You are here:</span>
+    <ol aria-labelledby="breadcrumbs-you-are-here">
+      <li id="breadcrumbs-home">
+        <a href="https://www.ote-cr.cz/en">Home</a>
+      </li>
+      <li id="breadcrumbs-1">
+        
+          <a href="https://www.ote-cr.cz/en/statistics">Statistics</a>
+          
+        
+      </li>
+      <li id="breadcrumbs-2">
+        
+          
+          <span id="breadcrumbs-current">Electricity Imbalances</span>
+        
+      </li>
+    </ol>
+  </div>
+</nav>
+</section>
+    
+      
+
+      <div>
+
+
+        
+
+        <article id="content">
+
+          
+
+          <header>
+            <div id="viewlet-above-content-title"><span id="social-tags-body" style="display: none" itemscope="" itemtype="http://schema.org/WebPage">
+  <span itemprop="name">Electricity Imbalances</span>
+  <span itemprop="description"></span>
+  <span itemprop="url">https://www.ote-cr.cz/en/statistics/electricity-imbalances</span>
+  <span itemprop="image">https://www.ote-cr.cz/logo.png</span>
+</span>
+</div>
+            
+                <h2 class="documentFirstHeading">Electricity Imbalances</h2>
+            
+            <div id="viewlet-below-content-title"></div>
+
+            
+                
+            
+          </header>
+
+          <section id="viewlet-above-content-body"></section>
+          <section id="content-core">
+            
+        <div>
+            
+                <!-- input parameters -->
+                <div class="datepickandsubmit report_input">
+                    
+                    
+                    	<!-- report date -->
+                        <span class="glyphicon glyphicon-chevron-left previous-day"></span>
+			    		<input type="text" class="datepicker-here" readonly="readonly" data-min-view="days" data-view="days" />
+			    		<span class="glyphicon glyphicon-chevron-right next-day"></span>
+                    
+                    
+                    
+                    	<!-- data version -->
+                        <select id="data_version" name="data_version" class="hour-select">
+                            
+                                <option value="0" selected="selected">version 0</option>
+                            
+                                <option value="1">version 1</option>
+                            
+                                <option value="2">version 2</option>
+                            
+                        </select>
+                    
+
+                    
+
+                    
+
+                                        
+                    
+
+                </div>
+                
+                <!-- content -->
+                <div class="report_content">
+                    
+                    	
+    <script type="text/javascript">
+                var minDate = new Date(2002, 01 - 1, 01);
+                //maximal date for data component - do not define value, if not used
+                var maxDate = new Date(2023, 05 - 1, 20);
+
+                var datepickerParams = {
+                    language: "en",
+                };
+
+                //selected date in datepicker - do not define value, if not used
+                var defaultSelectDate = new Date(2023, 05 - 1, 20);
+
+                $(document).ready(function () {
+
+                function changeUrlAndReload(date, version) {
+
+                    var d = date.getDate();
+                    var m = date.getMonth() + 1;
+                    var y = date.getFullYear();
+                    var parsable = y + '-' + (m <= 9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
+
+                    document.location.href = changeGetParameterInUrl(changeGetParameterInUrl(window.location.href, "date", parsable), "version", version);
+
+                }
+
+
+                var hammertime = new Hammer(window);
+
+                $('.datepickandsubmit>.datepicker-here').datepicker({
+                    dateFormat: "d. MM yyyy",
+                    autoClose: true,
+                    onSelect: function (fd, date, picker) {
+                    if ($_GET("date") === null || new Date($_GET("date")).getTime() == date.getTime()) {
+
+                        var d = date.getDate();
+                        var m = date.getMonth() + 1;
+                        var y = date.getFullYear();
+                        var parsable = y + '-' + (m <= 9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);
+
+                        history.pushState({}, '', changeGetParameterInUrl(window.location.href, "date", parsable));
+                    } else {
+                        changeUrlAndReload(date, $_GET('version'));
+                    }
+                    },
+                    onShow: function (dp, animationCompleted) {
+                    if (!animationCompleted) {
+
+                        hammertime.on('tap', function (ev) {
+                        if (ev.pointerType === 'touch') {
+                            $('.datepickandsubmit>.datepicker-here').datepicker().data('datepicker').hide();
+                        }
+                        });
+                    }
+                    },
+                    onHide: function (dp, animationCompleted) {
+                    if (!animationCompleted) {
+                        hammertime.off('tap');
+                    }
+                    },
+                });
+
+                $('.datepickandsubmit > .previous-day').bind('click', function () {
+
+                    var datepicker = $(this).parent().children('input').data('datepicker');
+
+                    var selectedDate = datepicker.lastSelectedDate;
+
+                    selectedDate = addDays(selectedDate, -1);
+                    datepicker.selectDate(selectedDate);
+                });
+
+                $('.datepickandsubmit > .next-day').bind('click', function () {
+
+                    var datepicker = $(this).parent().children('input').data('datepicker');
+
+                    var selectedDate = datepicker.lastSelectedDate;
+
+                    selectedDate = addDays(selectedDate, 1);
+                    datepicker.selectDate(selectedDate);
+                });
+
+                $('.datepickandsubmit > .open-icon').bind('click', function () {
+
+                    $(this).parent().children('input').data('datepicker').show();
+                });
+
+                var hourSelect = $('.datepickandsubmit>select.hour-select');
+
+
+                var selectedVersion = $_GET("version");
+                if (selectedVersion == null) {
+                    var selectedVersion = hourSelect.val();
+                    history.pushState({}, '', changeGetParameterInUrl(window.location.href, "version", selectedVersion));
+                } else {
+                    hourSelect.val(selectedVersion);
+
+                }
+
+                var selectedDate = $_GET("date");
+                if (selectedDate == null) {
+                    if (defaultSelectDate !== undefined) {
+                    selectedDate = defaultSelectDate;
+                    } else {
+                    selectedDate = new Date();
+                    }
+
+                } else {
+                    selectedDate = new Date(Date.parse(selectedDate));
+
+                    if (isNaN(selectedDate.getTime())) {
+                    if (defaultSelectDate !== undefined) {
+                        selectedDate = defaultSelectDate;
+                    } else {
+                        selectedDate = new Date();
+                    }
+                    }
+                }
+
+
+                $(hourSelect).change(function () {
+                    var selectedVersion = hourSelect.val();
+                    var selectedDate = $_GET("date");
+                    if (selectedDate == null) {
+                    selectedDate = new Date();
+                    } else {
+                    selectedDate = new Date(Date.parse(selectedDate));
+
+                    if (isNaN(selectedDate.getTime())) {
+                        selectedDate = new Date();
+                    }
+                    }
+                    changeUrlAndReload(selectedDate, selectedVersion);
+                });
+
+                $('.datepickandsubmit>input').data('datepicker').selectDate(selectedDate);
+
+                if (minDate !== undefined) {
+                    datepickerParams.minDate = minDate;
+                }
+
+                if (maxDate !== undefined) {
+                    datepickerParams.maxDate = maxDate;
+                }
+
+                $('.datepickandsubmit>input').data('datepicker').update(datepickerParams);
+                });
+
+            </script>
+	<div class="bigtable left-sticky">
+		<table class="table report_table">
+        	<!-- 
+        	<caption>
+	            <span tal:condition="python: 0 == int(data_version)" i18n:translate="page_report_05_table" tal:omit-tag="">Daily Settlement of Imbalances (version 0)</span>
+	            <span tal:condition="python: 1 == int(data_version)" i18n:translate="page_report_09_table" tal:omit-tag="">Monthly Settlement of Imbalances (version 1)</span>
+	            <span tal:condition="python: 2 == int(data_version)" i18n:translate="page_report_12_table" tal:omit-tag="">Final Monthly Settlement of Imbalances (version 2)</span>
+	            &nbsp;-&nbsp;
+	            <span tal:omit-tag="" tal:content="python:format_utility.format_date(report_date)"></span>
+          	</caption>
+          	 -->
+          	<thead>
+            	<tr>
+	                <th>Hour</th>
+	                
+	                <th>System imbalance (MWh)</th>
+	                <th>Absolute imbalance sum (MWh)</th>
+	                <th>Positive imbalance (MWh)</th>
+	                <th>Negative imbalance (MWh)</th>
+	                <th>Rounded imbalance (MWh)</th>
+	                <th>Cost of RE (CZK)</th>
+	                <th>Cost of imbalance (CZK)</th>
+	                <th>Settlement price - imbalance (CZK/MWh)</th>
+	                <th>Settlement price - counter-imbalance (CZK/MWh)</th>
+              		<th>Price according to protective RE component (CZK/MWh)</th>
+              		<th>Price according to RE component (CZK/MWh)</th>
+              		<th>Price according to IM component (CZK/MWh)</th>
+              		<th>Price according to SO component (CZK/MWh)</th>              	
+              		<th>Price of not performed activation (CZK/MWh)</th>
+              	</tr>
+          	</thead>
+          	<tbody>
+            	<tr>
+                	<th>1</th>
+                	
+                  	  
+                  	  <td>28,013 </td>
+	                  <td>117,705 </td>
+	                  <td>72,859 </td>
+	                  <td>-44,846 </td>
+	                  <td>-0,091 </td>
+	                  <td>11 373,50 </td>
+	                  <td>-75 546,66 </td>
+	                  <td>-669,64 </td>
+	                  <td>596,65 </td>
+	                  <td>211,14 </td>                                                               
+                      <td>-571,60 </td>                      
+	                  <td>1 419,11 </td>                      
+	                  <td>-669,64 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>2</th>
+                	
+                  	  
+                  	  <td>-22,506 </td>
+	                  <td>130,314 </td>
+	                  <td>53,904 </td>
+	                  <td>-76,410 </td>
+	                  <td>-0,094 </td>
+	                  <td>18 479,15 </td>
+	                  <td>-93 127,60 </td>
+	                  <td>1 885,53 </td>
+	                  <td>945,12 </td>
+	                  <td>908,58 </td>                                                               
+                      <td>1 664,80 </td>                      
+	                  <td>1 885,53 </td>                      
+	                  <td>1 788,58 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>3</th>
+                	
+                  	  
+                  	  <td>-20,680 </td>
+	                  <td>90,290 </td>
+	                  <td>34,805 </td>
+	                  <td>-55,485 </td>
+	                  <td>-0,103 </td>
+	                  <td>44 994,29 </td>
+	                  <td>-43 367,44 </td>
+	                  <td>1 749,24 </td>
+	                  <td>1 542,57 </td>
+	                  <td>1 778,56 </td>                                                               
+                      <td>1 635,50 </td>                      
+	                  <td>1 089,72 </td>                      
+	                  <td>1 749,24 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>4</th>
+                	
+                  	  
+                  	  <td>17,383 </td>
+	                  <td>168,885 </td>
+	                  <td>93,134 </td>
+	                  <td>-75,751 </td>
+	                  <td>-0,095 </td>
+	                  <td>-10 941,66 </td>
+	                  <td>-54 797,61 </td>
+	                  <td>-60,84 </td>
+	                  <td>648,59 </td>
+	                  <td>645,01 </td>                                                               
+                      <td>0,00 </td>                      
+	                  <td>591,49 </td>                      
+	                  <td>-60,84 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>5</th>
+                	
+                  	  
+                  	  <td>-1,030 </td>
+	                  <td>149,216 </td>
+	                  <td>74,093 </td>
+	                  <td>-75,123 </td>
+	                  <td>-0,125 </td>
+	                  <td>16 327,09 </td>
+	                  <td>-43 844,90 </td>
+	                  <td>2 026,76 </td>
+	                  <td>1 463,18 </td>
+	                  <td>1 660,45 </td>                                                               
+                      <td>2 021,10 </td>                      
+	                  <td>1 235,27 </td>                      
+	                  <td>2 026,76 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>6</th>
+                	
+                  	  
+                  	  <td>28,962 </td>
+	                  <td>171,924 </td>
+	                  <td>100,443 </td>
+	                  <td>-71,481 </td>
+	                  <td>-0,086 </td>
+	                  <td>12 412,50 </td>
+	                  <td>-17 027,06 </td>
+	                  <td>-325,70 </td>
+	                  <td>-219,46 </td>
+	                  <td>-279,75 </td>                                                               
+                      <td>-325,70 </td>                      
+	                  <td>590,40 </td>                      
+	                  <td>-101,36 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>7</th>
+                	
+                  	  
+                  	  <td>-4,683 </td>
+	                  <td>87,555 </td>
+	                  <td>41,436 </td>
+	                  <td>-46,119 </td>
+	                  <td>-0,088 </td>
+	                  <td>24 706,58 </td>
+	                  <td>-58 522,80 </td>
+	                  <td>2 668,75 </td>
+	                  <td>1 558,00 </td>
+	                  <td>1 935,51 </td>                                                               
+                      <td>2 643,00 </td>                      
+	                  <td>1 330,26 </td>                      
+	                  <td>2 668,75 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>8</th>
+                	
+                  	  
+                  	  <td>-74,928 </td>
+	                  <td>159,248 </td>
+	                  <td>42,160 </td>
+	                  <td>-117,088 </td>
+	                  <td>-0,093 </td>
+	                  <td>238 893,55 </td>
+	                  <td>-295 894,06 </td>
+	                  <td>3 664,40 </td>
+	                  <td>3 158,52 </td>
+	                  <td>3 177,58 </td>                                                               
+                      <td>3 301,00 </td>                      
+	                  <td>1 392,01 </td>                      
+	                  <td>3 664,40 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>9</th>
+                	
+                  	  
+                  	  <td>-145,104 </td>
+	                  <td>196,612 </td>
+	                  <td>25,754 </td>
+	                  <td>-170,858 </td>
+	                  <td>-0,060 </td>
+	                  <td>285 838,04 </td>
+	                  <td>-555 355,05 </td>
+	                  <td>3 554,17 </td>
+	                  <td>2 015,35 </td>
+	                  <td>1 976,73 </td>                                                               
+                      <td>3 244,50 </td>                      
+	                  <td>1 103,56 </td>                      
+	                  <td>3 554,17 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>10</th>
+                	
+                  	  
+                  	  <td>-114,070 </td>
+	                  <td>232,160 </td>
+	                  <td>59,045 </td>
+	                  <td>-173,115 </td>
+	                  <td>-0,099 </td>
+	                  <td>208 258,04 </td>
+	                  <td>-473 946,32 </td>
+	                  <td>3 430,98 </td>
+	                  <td>2 032,48 </td>
+	                  <td>1 896,22 </td>                                                               
+                      <td>2 803,60 </td>                      
+	                  <td>692,47 </td>                      
+	                  <td>3 430,98 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>11</th>
+                	
+                  	  
+                  	  <td>-52,524 </td>
+	                  <td>263,306 </td>
+	                  <td>105,391 </td>
+	                  <td>-157,915 </td>
+	                  <td>-0,105 </td>
+	                  <td>1 520 451,18 </td>
+	                  <td>-1 520 450,95 </td>
+	                  <td>21 316,22 </td>
+	                  <td>17 512,88 </td>
+	                  <td>21 316,22 </td>                                                               
+                      <td>22 757,80 </td>                      
+	                  <td>362,12 </td>                      
+	                  <td>23 046,68 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>12</th>
+                	
+                  	  
+                  	  <td>59,057 </td>
+	                  <td>262,499 </td>
+	                  <td>160,778 </td>
+	                  <td>-101,721 </td>
+	                  <td>-0,066 </td>
+	                  <td>63 859,92 </td>
+	                  <td>-243 620,75 </td>
+	                  <td>-1 971,00 </td>
+	                  <td>-720,33 </td>
+	                  <td>-852,93 </td>                                                               
+                      <td>-1 971,00 </td>                      
+	                  <td>292,53 </td>                      
+	                  <td>-1 357,59 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>13</th>
+                	
+                  	  
+                  	  <td>-12,344 </td>
+	                  <td>290,600 </td>
+	                  <td>139,128 </td>
+	                  <td>-151,472 </td>
+	                  <td>-0,091 </td>
+	                  <td>190 223,61 </td>
+	                  <td>-270 385,93 </td>
+	                  <td>8 261,49 </td>
+	                  <td>7 051,05 </td>
+	                  <td>7 732,26 </td>                                                               
+                      <td>8 193,60 </td>                      
+	                  <td>306,36 </td>                      
+	                  <td>8 261,49 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>14</th>
+                	
+                  	  
+                  	  <td>19,715 </td>
+	                  <td>290,579 </td>
+	                  <td>155,147 </td>
+	                  <td>-135,432 </td>
+	                  <td>-0,078 </td>
+	                  <td>31 517,78 </td>
+	                  <td>-219 894,64 </td>
+	                  <td>-2 507,80 </td>
+	                  <td>-1 249,21 </td>
+	                  <td>-1 293,61 </td>                                                               
+                      <td>-2 507,80 </td>                      
+	                  <td>-305,17 </td>                      
+	                  <td>-1 557,70 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>15</th>
+                	
+                  	  
+                  	  <td>21,641 </td>
+	                  <td>289,299 </td>
+	                  <td>155,470 </td>
+	                  <td>-133,829 </td>
+	                  <td>-0,068 </td>
+	                  <td>5 233,81 </td>
+	                  <td>-128 969,75 </td>
+	                  <td>-1 364,70 </td>
+	                  <td>-621,69 </td>
+	                  <td>-568,81 </td>                                                               
+                      <td>-1 364,70 </td>                      
+	                  <td>-308,06 </td>                      
+	                  <td>-1 254,44 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>16</th>
+                	
+                  	  
+                  	  <td>-22,793 </td>
+	                  <td>226,091 </td>
+	                  <td>101,649 </td>
+	                  <td>-124,442 </td>
+	                  <td>-0,104 </td>
+	                  <td>51 704,20 </td>
+	                  <td>-358 662,56 </td>
+	                  <td>3 981,10 </td>
+	                  <td>1 345,35 </td>
+	                  <td>1 514,42 </td>                                                               
+                      <td>3 981,10 </td>                      
+	                  <td>171,81 </td>                      
+	                  <td>3 883,16 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>17</th>
+                	
+                  	  
+                  	  <td>-68,926 </td>
+	                  <td>186,294 </td>
+	                  <td>58,684 </td>
+	                  <td>-127,610 </td>
+	                  <td>-0,095 </td>
+	                  <td>198 901,75 </td>
+	                  <td>-426 167,82 </td>
+	                  <td>4 188,89 </td>
+	                  <td>1 846,78 </td>
+	                  <td>2 407,94 </td>                                                               
+                      <td>3 809,80 </td>                      
+	                  <td>573,86 </td>                      
+	                  <td>4 188,89 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>18</th>
+                	
+                  	  
+                  	  <td>-12,892 </td>
+	                  <td>200,436 </td>
+	                  <td>93,772 </td>
+	                  <td>-106,664 </td>
+	                  <td>-0,098 </td>
+	                  <td>201 444,51 </td>
+	                  <td>-281 001,30 </td>
+	                  <td>9 152,40 </td>
+	                  <td>7 414,05 </td>
+	                  <td>8 406,53 </td>                                                               
+                      <td>9 081,50 </td>                      
+	                  <td>1 903,81 </td>                      
+	                  <td>9 152,40 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>19</th>
+                	
+                  	  
+                  	  <td>19,400 </td>
+	                  <td>146,608 </td>
+	                  <td>83,004 </td>
+	                  <td>-63,604 </td>
+	                  <td>-0,089 </td>
+	                  <td>19 012,09 </td>
+	                  <td>-123 631,07 </td>
+	                  <td>-824,50 </td>
+	                  <td>867,78 </td>
+	                  <td>435,90 </td>                                                               
+                      <td>-824,50 </td>                      
+	                  <td>835,28 </td>                      
+	                  <td>-43,20 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>20</th>
+                	
+                  	  
+                  	  <td>12,126 </td>
+	                  <td>103,114 </td>
+	                  <td>57,620 </td>
+	                  <td>-45,494 </td>
+	                  <td>-0,065 </td>
+	                  <td>9 754,72 </td>
+	                  <td>-72 671,98 </td>
+	                  <td>-181,50 </td>
+	                  <td>1 367,52 </td>
+	                  <td>910,43 </td>                                                               
+                      <td>-181,50 </td>                      
+	                  <td>1 337,75 </td>                      
+	                  <td>1 280,75 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>21</th>
+                	
+                  	  
+                  	  <td>30,842 </td>
+	                  <td>124,314 </td>
+	                  <td>77,578 </td>
+	                  <td>-46,736 </td>
+	                  <td>-0,085 </td>
+	                  <td>-57 621,62 </td>
+	                  <td>-93 327,58 </td>
+	                  <td>0,00 </td>
+	                  <td>1 996,91 </td>
+	                  <td>1 945,77 </td>                                                               
+                      <td>0,00 </td>                      
+	                  <td>1 375,61 </td>                      
+	                  <td>1 380,35 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>22</th>
+                	
+                  	  
+                  	  <td>-3,018 </td>
+	                  <td>101,940 </td>
+	                  <td>49,461 </td>
+	                  <td>-52,479 </td>
+	                  <td>-0,107 </td>
+	                  <td>13 033,35 </td>
+	                  <td>-18 752,10 </td>
+	                  <td>2 520,89 </td>
+	                  <td>2 295,58 </td>
+	                  <td>2 411,91 </td>                                                               
+                      <td>2 504,30 </td>                      
+	                  <td>1 744,72 </td>                      
+	                  <td>2 520,89 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>23</th>
+                	
+                  	  
+                  	  <td>-30,702 </td>
+	                  <td>100,830 </td>
+	                  <td>35,064 </td>
+	                  <td>-65,766 </td>
+	                  <td>-0,074 </td>
+	                  <td>91 899,47 </td>
+	                  <td>-102 295,51 </td>
+	                  <td>2 799,46 </td>
+	                  <td>2 333,27 </td>
+	                  <td>2 641,38 </td>                                                               
+                      <td>2 630,60 </td>                      
+	                  <td>1 774,74 </td>                      
+	                  <td>2 799,46 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+             <tr>
+                	<th>24</th>
+                	
+                  	  
+                  	  <td>-9,429 </td>
+	                  <td>105,891 </td>
+	                  <td>48,231 </td>
+	                  <td>-57,660 </td>
+	                  <td>-0,105 </td>
+	                  <td>123 879,20 </td>
+	                  <td>-32 155,82 </td>
+	                  <td>2 470,55 </td>
+	                  <td>2 286,83 </td>
+	                  <td>4 061,31 </td>                                                               
+                      <td>2 418,70 </td>                      
+	                  <td>1 621,28 </td>                      
+	                  <td>2 470,55 </td>
+	                  <td>2 256,70 </td>
+                    
+                      
+                
+              	</tr>
+              	
+          	</tbody>
+      	</table>
+ 	</div>
+ 	<div class="report_attachment_container">
+		
+		<p>Price Protective Components RE = price according to the weighted average cost of re (CZK / MWh) determined according to the Decree on the rules of the electricity market, Annexes No.8.</p>
+		<p></p>
+            
+		<p class="report_attachment_links">
+            
+                <a href="/pubweb/attachments/05_09_12/2023/month05/day20/Imbalances_20_05_2023_V0_EN.xls">Imbalances_20_05_2023_V0_EN.xls (54.0 KB)</a>
+            
+        </p>
+		<p class="annual_report_link">
+            <a href="/en/statistics/yearly-market-report">Yearly statistics can be found in the Yearly Report page</a>
+        </p>
+ 	</div>
+ 	
+
+                    
+                </div>
+
+                <input type="hidden" name="form_submitted" value="1" />
+        
+        </div>
+    
+          </section>
+          <section id="viewlet-below-content-body">
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+</section>
+
+          
+        </article>
+
+        
+
+<!--                 <metal:sub define-slot="sub" tal:content="nothing">
+                   This slot is here for backwards compatibility only.
+                   Don't use it in your custom templates.
+                </metal:sub> -->
+      </div>
+
+      
+      <footer>
+        <div id="viewlet-below-content">
+
+
+
+
+</div>
+      </footer>
+    </article>
+                </div>
+        	</div>
+        </div>
+        
+                   
+        <div class="row footer">
+        	<div class="container">
+		    	<div class="content">
+					<div class="navigation">
+					    <div id="footer-portal-globalnav-title" class="subtitle">Navigation</div>
+						<ul id="footer-portal-globalnav">
+							
+            
+              <li id="portaltab-index_html">
+                  <a href="https://www.ote-cr.cz/en" title="">
+                    <i class="fa fa-home"></i>
+                    <span>Home</span>
+                  </a>
+              </li>
+            
+              <li id="portaltab-about-ote">
+                  <a href="https://www.ote-cr.cz/en/about-ote" title="">
+                    
+                    <span>About OTE</span>
+                  </a>
+              </li>
+            
+              <li id="portaltab-registration-and-agreements">
+                  <a href="https://www.ote-cr.cz/en/registration-and-agreements" title="">
+                    
+                    <span>Business Partners</span>
+                  </a>
+              </li>
+            
+              <li id="portaltab-risk-management-en">
+                  <a href="https://www.ote-cr.cz/en/risk-management-en" title="">
+                    
+                    <span>Risk management</span>
+                  </a>
+              </li>
+            
+              <li id="portaltab-short-term-markets">
+                  <a href="https://www.ote-cr.cz/en/short-term-markets" title="">
+                    
+                    <span>Short-Term Markets</span>
+                  </a>
+              </li>
+            
+              <li id="portaltab-statistics" class="selected">
+                  <a href="https://www.ote-cr.cz/en/statistics" title="" class="active">
+                    
+                    <span>Statistics</span>
+                  </a>
+              </li>
+            
+              <li id="portaltab-documentation">
+                  <a href="https://www.ote-cr.cz/en/documentation" title="">
+                    
+                    <span>Documentation</span>
+                  </a>
+              </li>
+            
+              <li id="portaltab-gos_and_allowances">
+                  <a href="https://www.ote-cr.cz/en/gos_and_allowances" title="">
+                    
+                    <span>GOs and allowances</span>
+                  </a>
+              </li>
+            
+              <li id="portaltab-poze-en">
+                  <a href="https://www.ote-cr.cz/en/poze-en" title="">
+                    
+                    <span>Subsidy and Sources</span>
+                  </a>
+              </li>
+            
+        
+						</ul>
+					</div>
+			    	<div id="footer-site-actions" class="quick">
+			    		<div class="subtitle">Important links</div>
+			    		<ul id="footer-site-actions-list">
+			    			
+		<li><a href="/en/about-ote/rss">RSS</a></li>
+		<li><a href="/en/about-ote/contact">Contacts</a></li>
+		<li><a href="/en/documentation/term-of-use">Term of Use</a></li>
+		<li><a href="/en/about-ote/personal-data-processing">Personal Data Processing</a></li>
+		<li><a href="/en/sitemap">Sitemap</a></li>
+	
+			    			<li id="portaltab-cookies">
+			<a id="portaltab-cookies-link" href="#portaltab-cookies-link"><span>Cookie settings</span></a>
+		</li>
+			    		</ul>
+			    	</div>
+					<div id="footer-portal-mob-apps">
+						<div id="footer-portal-mob-apps-content">
+							<a id="footer-portal-mob-app-gas" class="logo app-gas-mob" href="https://www.ote-cr.cz/en/short-term-markets/gas/mobile-application-ote-im-gas">
+        <div class="logo-app-gas-mob logo-app-gas-mob-en">
+
+        </div>
+        <div class="text-app-gas-mob">Gas Intra-Day Market</div>
+        <div class="clear"></div>
+     </a>
+		                    <a id="footer-portal-mob-app-ele" class="logo app-ele-mob" href="https://www.ote-cr.cz/en/short-term-markets/electricity/mobile-application-ote-im-power">
+        <div class="logo-app-ele-mob logo-app-ele-mob-en">
+
+        </div>
+        <div class="text-app-ele-mob">Electricity Intra-Day Market</div>
+        <div class="clear"></div>
+     </a>
+	                    </div>
+                    </div>
+			    </div>
+			 </div>
+		</div>
+		<div class="row copyright">
+            <div class="container text-center">
+                © OTE, a.s., 2018
+            </div>
+        </div>
+		<div id="optCookies" class="cookie-message">
+                <div class="container text-center">
+                	<div id="optCookiesLeft">
+                    	<div id="optOutCookieText">
+	                    	We use cookies to properly display the web content. By staying on our website you agree to
+	                    	<a class="href" href="https://www.ote-cr.cz/en/documentation/term-of-use">our cookie policy</a>.
+                    	</div>
+                    	<div id="optOutCookieBttnPanel">
+	                    	<a id="optOutCookieBttnAgreeNeccessary" class="btn btn-default">Necessary only</a>
+	                    	<a id="optOutCookieBttnAgreeAll" class="btn btn-default">Accept all</a>
+	                    </div>
+	                 </div>
+	                 <div id="optCookiesRight">
+	                    <img id="optOutCookieCloseImage" src="++theme++pubweb-theme/images/transparent-icon-close-icon.png" title="Close" />
+                     </div>
+            	</div>
+            </div>
+	</div>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-145657661-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  var GA_ID = 'UA-145657661-2';
+  var GA_DOMAIN = 'ote-cr.cz';
+  if (isAnalyticCookieEnabled()) {
+	gtag('js', new Date());
+	gtag('config', GA_ID, {
+		'cookie_domain': GA_DOMAIN
+		}
+	);
+  } else {
+	window['ga-disable-' + GA_ID] = true;
+	removeGoogleAnalyticCookies(GA_ID, GA_DOMAIN);
+  }
+</script>
+</body>
+</html>
